@@ -125,7 +125,7 @@ A personal backlog of games to play, organized alphabetically. Covers beat 'em u
 
 ## He-Man and the Masters of the Universe™: Dragon Pearl of Destruction *(2026)*
 
-![He-Man Dragon Pearl of Destruction](assets/images/heman-dragon-pearl.jpg)
+<img src="assets/images/heman-dragon-pearl.jpg" width="460" alt="He-Man Dragon Pearl of Destruction">
 
 | | |
 |:---|:---|
@@ -211,7 +211,7 @@ A personal backlog of games to play, organized alphabetically. Covers beat 'em u
 
 ## Orbitals *(2026)*
 
-![Orbitals](assets/images/orbitals.jpg)
+<img src="assets/images/orbitals.jpg" width="460" alt="Orbitals">
 
 | | |
 |:---|:---|
