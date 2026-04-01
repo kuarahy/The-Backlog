@@ -383,7 +383,7 @@ A personal backlog of games to play, organized alphabetically. Covers beat 'em u
 
 ## Valkyrie Profile *(PS1)*
 
-<img src="assets/images/valkyrie-profile.jpg" width="460" alt="Valkyrie Profile">
+<img src="assets/images/valkyrie-profile.avif" width="460" alt="Valkyrie Profile">
 
 | | |
 |:---|:---|
