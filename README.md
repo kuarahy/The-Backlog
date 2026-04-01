@@ -6,7 +6,7 @@ A personal backlog of games to play, organized alphabetically. Covers beat 'em u
 
 ## Acts of Blood *(2026)*
 
-![Acts of Blood](https://cdn.akamai.steamstatic.com/steam/apps/3031890/header.jpg)
+![Acts of Blood](assets/images/acts-of-blood.jpg)
 
 | | |
 |:---|:---|
@@ -22,7 +22,7 @@ A personal backlog of games to play, organized alphabetically. Covers beat 'em u
 
 ## Blazing Chrome
 
-![Blazing Chrome](https://cdn.akamai.steamstatic.com/steam/apps/609110/header.jpg)
+![Blazing Chrome](assets/images/blazing-chrome.jpg)
 
 | | |
 |:---|:---|
@@ -38,7 +38,7 @@ A personal backlog of games to play, organized alphabetically. Covers beat 'em u
 
 ## Chroma Squad
 
-![Chroma Squad](https://cdn.akamai.steamstatic.com/steam/apps/251130/header.jpg)
+![Chroma Squad](assets/images/chroma-squad.jpg)
 
 | | |
 |:---|:---|
@@ -54,7 +54,7 @@ A personal backlog of games to play, organized alphabetically. Covers beat 'em u
 
 ## Double Dragon Revive
 
-![Double Dragon Revive](https://cdn.akamai.steamstatic.com/steam/apps/3012220/header.jpg)
+![Double Dragon Revive](assets/images/double-dragon-revive.jpg)
 
 | | |
 |:---|:---|
@@ -70,7 +70,7 @@ A personal backlog of games to play, organized alphabetically. Covers beat 'em u
 
 ## Fight'N Rage
 
-![Fight'N Rage](https://cdn.akamai.steamstatic.com/steam/apps/674520/header.jpg)
+![Fight'N Rage](assets/images/fight-n-rage.jpg)
 
 | | |
 |:---|:---|
@@ -86,7 +86,7 @@ A personal backlog of games to play, organized alphabetically. Covers beat 'em u
 
 ## Final Vendetta
 
-![Final Vendetta](https://cdn.akamai.steamstatic.com/steam/apps/1891090/header.jpg)
+![Final Vendetta](assets/images/final-vendetta.jpg)
 
 | | |
 |:---|:---|
@@ -102,7 +102,7 @@ A personal backlog of games to play, organized alphabetically. Covers beat 'em u
 
 ## First Berzerker: Khazan
 
-![First Berzerker: Khazan](https://cdn.akamai.steamstatic.com/steam/apps/2680010/header.jpg)
+![First Berzerker: Khazan](assets/images/first-berzerker-khazan.jpg)
 
 | | |
 |:---|:---|
@@ -118,7 +118,7 @@ A personal backlog of games to play, organized alphabetically. Covers beat 'em u
 
 ## He-Man and the Masters of the Universe™: Dragon Pearl of Destruction *(2026)*
 
-![He-Man Dragon Pearl of Destruction](https://cdn.akamai.steamstatic.com/steam/apps/3749580/header.jpg)
+![He-Man Dragon Pearl of Destruction](assets/images/heman-dragon-pearl.jpg)
 
 | | |
 |:---|:---|
@@ -135,7 +135,7 @@ A personal backlog of games to play, organized alphabetically. Covers beat 'em u
 
 ## Jitsu Squad
 
-![Jitsu Squad](https://cdn.akamai.steamstatic.com/steam/apps/1522080/header.jpg)
+![Jitsu Squad](assets/images/jitsu-squad.jpg)
 
 | | |
 |:---|:---|
@@ -151,7 +151,7 @@ A personal backlog of games to play, organized alphabetically. Covers beat 'em u
 
 ## Legend of Mana *(PS1 / HD Remaster)*
 
-![Legend of Mana](https://cdn.akamai.steamstatic.com/steam/apps/1175830/header.jpg)
+![Legend of Mana](assets/images/legend-of-mana.jpg)
 
 | | |
 |:---|:---|
@@ -167,7 +167,7 @@ A personal backlog of games to play, organized alphabetically. Covers beat 'em u
 
 ## Midnight Fight Express
 
-![Midnight Fight Express](https://cdn.akamai.steamstatic.com/steam/apps/1390410/header.jpg)
+![Midnight Fight Express](assets/images/midnight-fight-express.jpg)
 
 | | |
 |:---|:---|
@@ -183,7 +183,7 @@ A personal backlog of games to play, organized alphabetically. Covers beat 'em u
 
 ## Mother Russia Bleeds
 
-![Mother Russia Bleeds](https://cdn.akamai.steamstatic.com/steam/apps/361300/header.jpg)
+![Mother Russia Bleeds](assets/images/mother-russia-bleeds.jpg)
 
 | | |
 |:---|:---|
@@ -213,7 +213,7 @@ A personal backlog of games to play, organized alphabetically. Covers beat 'em u
 
 ## Pocky & Rocky Reshrined
 
-![Pocky & Rocky Reshrined](https://cdn.akamai.steamstatic.com/steam/apps/2200580/header.jpg)
+![Pocky & Rocky Reshrined](assets/images/pocky-rocky-reshrined.jpg)
 
 | | |
 |:---|:---|
@@ -229,7 +229,7 @@ A personal backlog of games to play, organized alphabetically. Covers beat 'em u
 
 ## Ra Ra Boom
 
-![Ra Ra BOOM](https://cdn.akamai.steamstatic.com/steam/apps/2335060/header.jpg)
+![Ra Ra BOOM](assets/images/ra-ra-boom.jpg)
 
 | | |
 |:---|:---|
@@ -245,7 +245,7 @@ A personal backlog of games to play, organized alphabetically. Covers beat 'em u
 
 ## River City Girls 2
 
-![River City Girls 2](https://cdn.akamai.steamstatic.com/steam/apps/1920480/header.jpg)
+![River City Girls 2](assets/images/river-city-girls-2.jpg)
 
 | | |
 |:---|:---|
@@ -261,7 +261,7 @@ A personal backlog of games to play, organized alphabetically. Covers beat 'em u
 
 ## RUINER *(Cyberpunk Twin-Stick)*
 
-![RUINER](https://cdn.akamai.steamstatic.com/steam/apps/464060/header.jpg)
+![RUINER](assets/images/ruiner.jpg)
 
 | | |
 |:---|:---|
@@ -277,7 +277,7 @@ A personal backlog of games to play, organized alphabetically. Covers beat 'em u
 
 ## Shadow of the Ninja: Reborn
 
-![Shadow of the Ninja: Reborn](https://cdn.akamai.steamstatic.com/steam/apps/2543760/header.jpg)
+![Shadow of the Ninja: Reborn](assets/images/shadow-of-the-ninja.jpg)
 
 | | |
 |:---|:---|
@@ -293,7 +293,7 @@ A personal backlog of games to play, organized alphabetically. Covers beat 'em u
 
 ## Shinobi: Art of Vengeance
 
-![SHINOBI: Art of Vengeance](https://cdn.akamai.steamstatic.com/steam/apps/2361770/header.jpg)
+![SHINOBI: Art of Vengeance](assets/images/shinobi-art-of-vengeance.jpg)
 
 | | |
 |:---|:---|
@@ -310,7 +310,7 @@ A personal backlog of games to play, organized alphabetically. Covers beat 'em u
 
 ## Sifu
 
-![Sifu](https://cdn.akamai.steamstatic.com/steam/apps/2138710/header.jpg)
+![Sifu](assets/images/sifu.jpg)
 
 | | |
 |:---|:---|
@@ -326,7 +326,7 @@ A personal backlog of games to play, organized alphabetically. Covers beat 'em u
 
 ## The Takeover
 
-![The Takeover](https://cdn.akamai.steamstatic.com/steam/apps/418620/header.jpg)
+![The Takeover](assets/images/the-takeover.jpg)
 
 | | |
 |:---|:---|
@@ -342,7 +342,7 @@ A personal backlog of games to play, organized alphabetically. Covers beat 'em u
 
 ## Tower of Druaga *(1984)*
 
-![Tower of Druaga](https://upload.wikimedia.org/wikipedia/en/thumb/7/7d/Tower_of_druaga_arcadeflyer.png/220px-Tower_of_druaga_arcadeflyer.png)
+![Tower of Druaga](assets/images/tower-of-druaga.jpg)
 
 | | |
 |:---|:---|
@@ -358,7 +358,7 @@ A personal backlog of games to play, organized alphabetically. Covers beat 'em u
 
 ## Valkyrie Profile *(PS1)*
 
-![Valkyrie Profile](https://upload.wikimedia.org/wikipedia/en/7/70/Valkyrie_Profile.jpg)
+![Valkyrie Profile](assets/images/valkyrie-profile.jpg)
 
 | | |
 |:---|:---|
